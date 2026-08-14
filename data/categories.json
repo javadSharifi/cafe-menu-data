@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "قهوه",
+    "slug": "coffee"
+  },
+  {
+    "id": 2,
+    "name": "نوشیدنی گرم",
+    "slug": "hot-drinks"
+  },
+  {
+    "id": 3,
+    "name": "نوشیدنی سرد",
+    "slug": "cold-drinks"
+  },
+  {
+    "id": 4,
+    "name": "کیک و دسر",
+    "slug": "desserts"
+  },
+  {
+    "id": 5,
+    "name": "صبحانه",
+    "slug": "breakfast"
+  },
+  {
+    "id": 6,
+    "name": "غذا",
+    "slug": "food"
+  },
+  {
+    "id": 7,
+    "name": "اسموتی",
+    "slug": "smoothies"
+  },
+  {
+    "id": 8,
+    "name": "چای و دمنوش",
+    "slug": "tea"
+  }
+]

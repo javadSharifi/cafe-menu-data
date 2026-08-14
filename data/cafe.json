@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "Cafe Aurora",
+  "slug": "cafe-aurora",
+  "description": "یک کافه نمونه برای تست سیستم منوی آنلاین",
+  "phone": "02100000000",
+  "address": "تهران، خیابان نمونه، پلاک ۱",
+  "logo": null
+}
