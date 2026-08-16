@@ -703,5 +703,22 @@
       }
     ],
     "isAvailable": true
+  },
+  {
+    "id": 41,
+    "cafeId": 1,
+    "name": "کیک شکلاتی ",
+    "slug": "product-41",
+    "description": "یک برش کیک عصر با روکش سس شکلاتی ",
+    "categoryId": 6,
+    "image": "images/products/41.webp",
+    "variants": [
+      {
+        "id": 412,
+        "name": "کیک شکلاتی",
+        "price": 85
+      }
+    ],
+    "isAvailable": true
   }
 ]
