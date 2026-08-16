@@ -6,7 +6,7 @@
     "slug": "shake-vanilla",
     "description": "شیک خامه‌ای با طعم وانیل",
     "categoryId": 3,
-    "image": null,
+    "image": "images/products/1.webp",
     "variants": [
       {
         "id": 101,
