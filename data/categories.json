@@ -1,5 +1,10 @@
 [
   {
+    "id": 8,
+    "name": "قهوه",
+    "slug": "coffee"
+  },
+  {
     "id": 1,
     "name": "بار کرم",
     "slug": "hot-bar"
@@ -33,10 +38,5 @@
     "id": 7,
     "name": "بستنی",
     "slug": "ice-cream"
-  },
-  {
-    "id": 8,
-    "name": "قهوه",
-    "slug": "coffee"
   }
 ]
