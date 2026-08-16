@@ -686,5 +686,22 @@
       }
     ],
     "isAvailable": true
+  },
+  {
+    "id": 40,
+    "cafeId": 1,
+    "name": "کیک نارگیل ",
+    "slug": "product-40",
+    "description": "یک برش کیک شکلاتی با روکش نارگیل و شهد ",
+    "categoryId": 6,
+    "image": "images/products/40.webp",
+    "variants": [
+      {
+        "id": 411,
+        "name": "کیک نارگیل",
+        "price": 75
+      }
+    ],
+    "isAvailable": true
   }
 ]
