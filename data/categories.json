@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "name": "قهوه",
-    "slug": "coffee"
+    "name": "بار کرم",
+    "slug": "hot-bar"
   },
   {
     "id": 2,
-    "name": "نوشیدنی گرم",
-    "slug": "hot-drinks"
+    "name": "بار سرد",
+    "slug": "cold-bar"
   },
   {
     "id": 3,
-    "name": "نوشیدنی سرد",
-    "slug": "cold-drinks"
+    "name": "شیک",
+    "slug": "shake"
   },
   {
     "id": 4,
-    "name": "کیک و دسر",
-    "slug": "desserts"
-  },
-  {
-    "id": 5,
     "name": "صبحانه",
     "slug": "breakfast"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "غذا",
     "slug": "food"
   },
   {
+    "id": 6,
+    "name": "دسر",
+    "slug": "dessert"
+  },
+  {
     "id": 7,
-    "name": "اسموتی",
-    "slug": "smoothies"
+    "name": "بستنی",
+    "slug": "ice-cream"
   },
   {
     "id": 8,
-    "name": "چای و دمنوش",
-    "slug": "tea"
+    "name": "قهوه",
+    "slug": "coffee"
   }
 ]

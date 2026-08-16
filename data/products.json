@@ -2,16 +2,16 @@
   {
     "id": 1,
     "cafeId": 1,
-    "name": "اسپرسو",
-    "slug": "espresso",
-    "description": "یک شات غلیظ قهوه با کرمای طلایی؛ بهترین انتخاب برای عاشقان قهوه خالص",
-    "categoryId": 1,
-    "image": "images/products/1.webp",
+    "name": "شیک وانیل",
+    "slug": "shake-vanilla",
+    "description": "شیک خامه‌ای با طعم وانیل",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
         "id": 101,
         "name": "تکی",
-        "price": 95000
+        "price": 200
       }
     ],
     "isAvailable": true
@@ -19,16 +19,16 @@
   {
     "id": 2,
     "cafeId": 1,
-    "name": "آمریکانو",
-    "slug": "americano",
-    "description": "اسپرسو با آب داغ؛ قهوه‌ای سبک و خوش‌طعم با عطر ملایم",
-    "categoryId": 1,
-    "image": "images/products/2.webp",
+    "name": "شیک شکلات",
+    "slug": "shake-chocolate",
+    "description": "شیک غلیظ با طعم شکلات",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 201,
+        "id": 102,
         "name": "تکی",
-        "price": 110000
+        "price": 250
       }
     ],
     "isAvailable": true
@@ -36,26 +36,16 @@
   {
     "id": 3,
     "cafeId": 1,
-    "name": "لاته",
-    "slug": "latte",
-    "description": "قهوه اسپرسو همراه با شیر بخار داده شده و فوم نرم و ابریشمی",
-    "categoryId": 1,
-    "image": "images/products/3.webp",
+    "name": "شیک شکلات وانیل",
+    "slug": "shake-chocolate-vanilla",
+    "description": "ترکیب شکلات و وانیل در یک شیک",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 301,
-        "name": "کوچک",
-        "price": 150000
-      },
-      {
-        "id": 302,
-        "name": "متوسط",
-        "price": 180000
-      },
-      {
-        "id": 303,
-        "name": "بزرگ",
-        "price": 220000
+        "id": 103,
+        "name": "تکی",
+        "price": 220
       }
     ],
     "isAvailable": true
@@ -63,26 +53,16 @@
   {
     "id": 4,
     "cafeId": 1,
-    "name": "کاپوچینو",
-    "slug": "cappuccino",
-    "description": "ترکیب اسپرسو، شیر بخار داده شده و فوم غلیظ با پودر کاکائو رویه",
-    "categoryId": 1,
-    "image": "images/products/4.webp",
+    "name": "شیک کوکی",
+    "slug": "shake-cookie",
+    "description": "شیک با بیسکویت کوکی خردشده",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 401,
-        "name": "کوچک",
-        "price": 150000
-      },
-      {
-        "id": 402,
-        "name": "متوسط",
-        "price": 180000
-      },
-      {
-        "id": 403,
-        "name": "بزرگ",
-        "price": 215000
+        "id": 104,
+        "name": "تکی",
+        "price": 220
       }
     ],
     "isAvailable": true
@@ -90,26 +70,16 @@
   {
     "id": 5,
     "cafeId": 1,
-    "name": "موکا",
-    "slug": "mocha",
-    "description": "اسپرسو با سس شکلات، شیر بخار داده شده و خامه؛ ترکیب قهوه و شکلات",
-    "categoryId": 1,
-    "image": "images/products/5.webp",
+    "name": "شیک کیک",
+    "slug": "shake-cake",
+    "description": "شیک با تکه‌های کیک",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 501,
-        "name": "کوچک",
-        "price": 170000
-      },
-      {
-        "id": 502,
-        "name": "متوسط",
-        "price": 200000
-      },
-      {
-        "id": 503,
-        "name": "بزرگ",
-        "price": 240000
+        "id": 105,
+        "name": "تکی",
+        "price": 220
       }
     ],
     "isAvailable": true
@@ -117,16 +87,16 @@
   {
     "id": 6,
     "cafeId": 1,
-    "name": "فلت وایت",
-    "slug": "flat-white",
-    "description": "اسپرسو دوبل با میکروفوم مخملی شیر؛ قهوه‌ای غنی با بافت نرم",
-    "categoryId": 1,
-    "image": "images/products/6.webp",
+    "name": "شیک موز شکلات",
+    "slug": "shake-banana-chocolate",
+    "description": "شیک موز با طعم شکلات",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 601,
+        "id": 106,
         "name": "تکی",
-        "price": 160000
+        "price": 270
       }
     ],
     "isAvailable": true
@@ -134,21 +104,16 @@
   {
     "id": 7,
     "cafeId": 1,
-    "name": "کارامل ماکیاتو",
-    "slug": "caramel-macchiato",
-    "description": "اسپرسو با شیر بخار داده شده، شربت کارامل و سس کارامل کرمی",
-    "categoryId": 1,
-    "image": "images/products/7.webp",
+    "name": "شیک انبه",
+    "slug": "shake-mango",
+    "description": "شیک با طعم انبه",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 701,
-        "name": "کوچک",
-        "price": 180000
-      },
-      {
-        "id": 702,
-        "name": "بزرگ",
-        "price": 220000
+        "id": 107,
+        "name": "تکی",
+        "price": 230
       }
     ],
     "isAvailable": true
@@ -156,16 +121,16 @@
   {
     "id": 8,
     "cafeId": 1,
-    "name": "قهوه ترک",
-    "slug": "turkish-coffee",
-    "description": "قهوه ترک اصیل با عطر و طعم سنتی، سرو شده با یک لیوان آب",
-    "categoryId": 1,
-    "image": "images/products/8.webp",
+    "name": "شیک وانیل آدامسی",
+    "slug": "shake-vanilla-gum",
+    "description": "شیک وانیل با طعم آدامس",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 801,
+        "id": 108,
         "name": "تکی",
-        "price": 80000
+        "price": 230
       }
     ],
     "isAvailable": true
@@ -173,38 +138,33 @@
   {
     "id": 9,
     "cafeId": 1,
-    "name": "افوگاتو",
-    "slug": "affogato",
-    "description": "بستنی وانیلی غوطه‌ور در شات اسپرسو داغ؛ دسری ساده و به‌یادماندنی",
-    "categoryId": 1,
-    "image": "images/products/9.webp",
+    "name": "شیک پسته",
+    "slug": "shake-pistachio",
+    "description": "شیک با طعم پسته",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 901,
+        "id": 109,
         "name": "تکی",
-        "price": 140000
+        "price": 220
       }
     ],
-    "isAvailable": false
+    "isAvailable": true
   },
   {
     "id": 10,
     "cafeId": 1,
-    "name": "هات چاکلت",
-    "slug": "hot-chocolate",
-    "description": "شکلات ذوب‌شده با شیر گرم و خامه فرم گرفته رویه",
-    "categoryId": 2,
-    "image": "images/products/10.webp",
+    "name": "شیک کلد",
+    "slug": "shake-cold",
+    "description": "شیک سرد و خامه‌ای",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 1001,
-        "name": "کوچک",
-        "price": 130000
-      },
-      {
-        "id": 1002,
-        "name": "بزرگ",
-        "price": 160000
+        "id": 110,
+        "name": "تکی",
+        "price": 220
       }
     ],
     "isAvailable": true
@@ -212,16 +172,16 @@
   {
     "id": 11,
     "cafeId": 1,
-    "name": "چای ماسالا",
-    "slug": "masala-chai",
-    "description": "چای هندی با ادویه‌های ماسالا، زنجبیل، دارچین و شیر",
-    "categoryId": 2,
-    "image": "images/products/11.webp",
+    "name": "شیک نوتلا",
+    "slug": "shake-nutella",
+    "description": "شیک با کرم نوتلا",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 1101,
+        "id": 111,
         "name": "تکی",
-        "price": 95000
+        "price": 220
       }
     ],
     "isAvailable": true
@@ -229,16 +189,16 @@
   {
     "id": 12,
     "cafeId": 1,
-    "name": "چای دارچین",
-    "slug": "cinnamon-tea",
-    "description": "چای دم‌کشیده همراه با چوب دارچین؛ گرم و آرامش‌بخش",
-    "categoryId": 2,
-    "image": "images/products/12.webp",
+    "name": "شیک قهوه",
+    "slug": "shake-coffee",
+    "description": "شیک با طعم قهوه",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 1201,
+        "id": 112,
         "name": "تکی",
-        "price": 85000
+        "price": 220
       }
     ],
     "isAvailable": true
@@ -246,16 +206,16 @@
   {
     "id": 13,
     "cafeId": 1,
-    "name": "چای زنجبیل",
-    "slug": "ginger-tea",
-    "description": "چای داغ با زنجبیل تازه و عسل طبیعی؛ مناسب روزهای سرد",
-    "categoryId": 2,
-    "image": "images/products/13.webp",
+    "name": "شیک کایو",
+    "slug": "shake-cashew",
+    "description": "شیک با طعم کاجو",
+    "categoryId": 3,
+    "image": null,
     "variants": [
       {
-        "id": 1301,
+        "id": 113,
         "name": "تکی",
-        "price": 85000
+        "price": 250
       }
     ],
     "isAvailable": true
@@ -263,16 +223,16 @@
   {
     "id": 14,
     "cafeId": 1,
-    "name": "لیموشیرین داغ",
-    "slug": "hot-lemon",
-    "description": "آب داغ با آب لیموی تازه و عسل؛ نوشیدنی گرم و انرژیزا",
-    "categoryId": 2,
-    "image": "images/products/14.webp",
+    "name": "لاته",
+    "slug": "latte",
+    "description": "اسپرسو با شیر بخار داده شده",
+    "categoryId": 1,
+    "image": null,
     "variants": [
       {
-        "id": 1401,
+        "id": 201,
         "name": "تکی",
-        "price": 80000
+        "price": 150
       }
     ],
     "isAvailable": true
@@ -280,16 +240,16 @@
   {
     "id": 15,
     "cafeId": 1,
-    "name": "شیر زعفرانی",
-    "slug": "saffron-milk",
-    "description": "شیر گرم با زعفران، هل و پسته؛ نوشیدنی سنتی و مقوی",
-    "categoryId": 2,
-    "image": "images/products/15.webp",
+    "name": "کاپوچینو",
+    "slug": "cappuccino",
+    "description": "اسپرسو با شیر و فوم غلیظ",
+    "categoryId": 1,
+    "image": null,
     "variants": [
       {
-        "id": 1501,
+        "id": 202,
         "name": "تکی",
-        "price": 120000
+        "price": 130
       }
     ],
     "isAvailable": true
@@ -297,26 +257,16 @@
   {
     "id": 16,
     "cafeId": 1,
-    "name": "آیس لاته",
-    "slug": "iced-latte",
-    "description": "اسپرسو خنک با شیر سرد و یخ؛ گزینه‌ای عالی برای روزهای گرم",
-    "categoryId": 3,
-    "image": "images/products/16.webp",
+    "name": "موکا",
+    "slug": "mocha",
+    "description": "اسپرسو با شکلات و شیر",
+    "categoryId": 1,
+    "image": null,
     "variants": [
       {
-        "id": 1601,
-        "name": "کوچک",
-        "price": 160000
-      },
-      {
-        "id": 1602,
-        "name": "متوسط",
-        "price": 190000
-      },
-      {
-        "id": 1603,
-        "name": "بزرگ",
-        "price": 230000
+        "id": 203,
+        "name": "تکی",
+        "price": 170
       }
     ],
     "isAvailable": true
@@ -324,16 +274,16 @@
   {
     "id": 17,
     "cafeId": 1,
-    "name": "آیس آمریکانو",
-    "slug": "iced-americano",
-    "description": "اسپرسو با آب سرد و یخ؛ نوشیدنی سبک و تازه‌کننده",
-    "categoryId": 3,
-    "image": "images/products/17.webp",
+    "name": "ماکیاتو",
+    "slug": "macchiato",
+    "description": "اسپرسو با کمی شیر و فوم",
+    "categoryId": 1,
+    "image": null,
     "variants": [
       {
-        "id": 1701,
+        "id": 204,
         "name": "تکی",
-        "price": 120000
+        "price": 130
       }
     ],
     "isAvailable": true
@@ -341,16 +291,16 @@
   {
     "id": 18,
     "cafeId": 1,
-    "name": "کولد برو",
-    "slug": "cold-brew",
-    "description": "قهوه دم‌شده سرد به مدت ۱۸ ساعت؛ نرم، کم‌اسید و فوق‌العاده خوش‌طعم",
-    "categoryId": 3,
-    "image": "images/products/18.webp",
+    "name": "هات چاکلت",
+    "slug": "hot-chocolate",
+    "description": "شکلات داغ با شیر",
+    "categoryId": 1,
+    "image": null,
     "variants": [
       {
-        "id": 1801,
+        "id": 205,
         "name": "تکی",
-        "price": 150000
+        "price": 120
       }
     ],
     "isAvailable": true
@@ -358,16 +308,16 @@
   {
     "id": 19,
     "cafeId": 1,
-    "name": "آیس موکا",
-    "slug": "iced-mocha",
-    "description": "اسپرسو با سس شکلات و شیر سرد روی یخ؛ شکلاتی و خنک",
-    "categoryId": 3,
-    "image": "images/products/19.webp",
+    "name": "وایت چاکلت",
+    "slug": "white-chocolate",
+    "description": "شکلات سفید داغ با شیر",
+    "categoryId": 1,
+    "image": null,
     "variants": [
       {
-        "id": 1901,
+        "id": 206,
         "name": "تکی",
-        "price": 190000
+        "price": 135
       }
     ],
     "isAvailable": true
@@ -375,26 +325,16 @@
   {
     "id": 20,
     "cafeId": 1,
-    "name": "لیموناد",
-    "slug": "lemonade",
-    "description": "لیموناد خانگی با آبلیموی تازه، نعناع و یخ؛ ترش و خنک",
-    "categoryId": 3,
-    "image": "images/products/20.webp",
+    "name": "کِرک زعفرانی",
+    "slug": "saffron-milk",
+    "description": "شیر گرم با زعفران و هل",
+    "categoryId": 1,
+    "image": null,
     "variants": [
       {
-        "id": 2001,
-        "name": "250ml",
-        "price": 90000
-      },
-      {
-        "id": 2002,
-        "name": "350ml",
-        "price": 110000
-      },
-      {
-        "id": 2003,
-        "name": "500ml",
-        "price": 140000
+        "id": 207,
+        "name": "تکی",
+        "price": 155
       }
     ],
     "isAvailable": true
@@ -402,53 +342,33 @@
   {
     "id": 21,
     "cafeId": 1,
-    "name": "آیس تی",
-    "slug": "iced-tea",
-    "description": "چای سرد با لیموی تازه و شکر؛ نوشیدنی کلاسیک و خنک",
-    "categoryId": 3,
-    "image": "images/products/21.webp",
+    "name": "چای ماسالا",
+    "slug": "masala-chai",
+    "description": "چای هندی با ادویه ماسالا",
+    "categoryId": 1,
+    "image": null,
     "variants": [
       {
-        "id": 2101,
-        "name": "250ml",
-        "price": 75000
-      },
-      {
-        "id": 2102,
-        "name": "350ml",
-        "price": 90000
-      },
-      {
-        "id": 2103,
-        "name": "500ml",
-        "price": 110000
+        "id": 208,
+        "name": "تکی",
+        "price": 130
       }
     ],
-    "isAvailable": false
+    "isAvailable": true
   },
   {
     "id": 22,
     "cafeId": 1,
-    "name": "میلک‌شیک شکلاتی",
-    "slug": "chocolate-milkshake",
-    "description": "میلک‌شیک غلیظ با بستنی وانیلی، شکلات و خامه رویه",
-    "categoryId": 3,
-    "image": "images/products/22.webp",
+    "name": "آیس کافه",
+    "slug": "iced-coffee",
+    "description": "قهوه سرد با یخ",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 2201,
-        "name": "250ml",
-        "price": 150000
-      },
-      {
-        "id": 2202,
-        "name": "350ml",
-        "price": 180000
-      },
-      {
-        "id": 2203,
-        "name": "500ml",
-        "price": 220000
+        "id": 301,
+        "name": "تکی",
+        "price": 130
       }
     ],
     "isAvailable": true
@@ -456,16 +376,16 @@
   {
     "id": 23,
     "cafeId": 1,
-    "name": "چیزکیک نیویورکی",
-    "slug": "cheesecake",
-    "description": "چیزکیک خامه‌ای کلاسیک با بیسکویت کره‌ای و سس توت‌فرنگی",
-    "categoryId": 4,
-    "image": "images/products/23.webp",
+    "name": "افوگاتو",
+    "slug": "affogato",
+    "description": "بستنی وانیلی با شات اسپرسو",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 2301,
-        "name": "یک تکه",
-        "price": 180000
+        "id": 302,
+        "name": "تکی",
+        "price": 150
       }
     ],
     "isAvailable": true
@@ -473,16 +393,16 @@
   {
     "id": 24,
     "cafeId": 1,
-    "name": "کیک شکلاتی",
-    "slug": "chocolate-cake",
-    "description": "کیک اسفنجی شکلاتی مرطوب با گاناش شکلات غلیظ",
-    "categoryId": 4,
-    "image": "images/products/24.webp",
+    "name": "آیس لاته",
+    "slug": "iced-latte",
+    "description": "اسپرسو با شیر سرد و یخ",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 2401,
-        "name": "یک تکه",
-        "price": 170000
+        "id": 303,
+        "name": "تکی",
+        "price": 150
       }
     ],
     "isAvailable": true
@@ -490,16 +410,16 @@
   {
     "id": 25,
     "cafeId": 1,
-    "name": "کیک هویج",
-    "slug": "carrot-cake",
-    "description": "کیک هویج با گردو، ادویه‌های معطر و فراستینگ پنیری",
-    "categoryId": 4,
-    "image": "images/products/25.webp",
+    "name": "آیس چاکلت",
+    "slug": "iced-chocolate",
+    "description": "شکلات سرد با یخ",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 2501,
-        "name": "یک تکه",
-        "price": 160000
+        "id": 304,
+        "name": "تکی",
+        "price": 130
       }
     ],
     "isAvailable": true
@@ -507,16 +427,16 @@
   {
     "id": 26,
     "cafeId": 1,
-    "name": "براونی",
-    "slug": "brownie",
-    "description": "براونی شکلاتی نرم با بافت غلیظ و مغز گردو",
-    "categoryId": 4,
-    "image": "images/products/26.webp",
+    "name": "شیرموز",
+    "slug": "banana-milk",
+    "description": "شیر سرد با موز",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 2601,
-        "name": "یک تکه",
-        "price": 140000
+        "id": 305,
+        "name": "تکی",
+        "price": 150
       }
     ],
     "isAvailable": true
@@ -524,16 +444,16 @@
   {
     "id": 27,
     "cafeId": 1,
-    "name": "تیرامیسو",
-    "slug": "tiramisu",
-    "description": "دسر ایتالیایی با لیدی‌فینگر، ماسکارپونه و پودر کاکائو",
-    "categoryId": 4,
-    "image": "images/products/27.webp",
+    "name": "شیرموز بستنی",
+    "slug": "banana-milk-ice-cream",
+    "description": "شیرموز با بستنی",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 2701,
-        "name": "یک تکه",
-        "price": 200000
+        "id": 306,
+        "name": "تکی",
+        "price": 200
       }
     ],
     "isAvailable": true
@@ -541,16 +461,16 @@
   {
     "id": 28,
     "cafeId": 1,
-    "name": "کیک ردولوت",
-    "slug": "red-velvet",
-    "description": "کیک مخملی قرمز با فراستینگ پنیری کلاسیک",
-    "categoryId": 4,
-    "image": "images/products/28.webp",
+    "name": "آب هندوانه",
+    "slug": "watermelon-juice",
+    "description": "آب هندوانه تازه",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 2801,
-        "name": "یک تکه",
-        "price": 190000
+        "id": 307,
+        "name": "تکی",
+        "price": 120
       }
     ],
     "isAvailable": true
@@ -558,33 +478,33 @@
   {
     "id": 29,
     "cafeId": 1,
-    "name": "دونات شکلاتی",
-    "slug": "chocolate-donut",
-    "description": "دونات نرم با روکش شکلات و ترافل رنگی",
-    "categoryId": 4,
-    "image": "images/products/29.webp",
+    "name": "آب هویج",
+    "slug": "carrot-juice",
+    "description": "آب هویج تازه",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 2901,
+        "id": 308,
         "name": "تکی",
-        "price": 95000
+        "price": 0
       }
     ],
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "id": 30,
     "cafeId": 1,
-    "name": "املت پنیری",
-    "slug": "omelette",
-    "description": "املت تخم‌مرغ با پنیر گودا، گوجه و سبزیجات تازه، سرو با نان",
-    "categoryId": 5,
-    "image": "images/products/30.webp",
+    "name": "موهیتو",
+    "slug": "mojito",
+    "description": "نوشیدنی نعنا و لیمو با یخ",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 3001,
-        "name": "یک وعده",
-        "price": 190000
+        "id": 309,
+        "name": "تکی",
+        "price": 130
       }
     ],
     "isAvailable": true
@@ -592,16 +512,16 @@
   {
     "id": 31,
     "cafeId": 1,
-    "name": "تخم‌مرغ همزده",
-    "slug": "scrambled-eggs",
-    "description": "تخم‌مرغ همزده کره‌ای نرم همراه با نان تست و سبزیجات",
-    "categoryId": 5,
-    "image": "images/products/31.webp",
+    "name": "موهیتو ویژه",
+    "slug": "special-mojito",
+    "description": "موهیتو ویژه",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 3101,
-        "name": "یک وعده",
-        "price": 170000
+        "id": 310,
+        "name": "تکی",
+        "price": 120
       }
     ],
     "isAvailable": true
@@ -609,33 +529,33 @@
   {
     "id": 32,
     "cafeId": 1,
-    "name": "پنکیک با عسل",
-    "slug": "pancakes",
-    "description": "سه پنکیک نرم با عسل طبیعی و کره تازه",
-    "categoryId": 5,
-    "image": "images/products/32.webp",
+    "name": "تورشک",
+    "slug": "torsh",
+    "description": "نوشیدنی ترش",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 3201,
-        "name": "یک وعده",
-        "price": 210000
+        "id": 311,
+        "name": "تکی",
+        "price": 0
       }
     ],
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "id": 33,
     "cafeId": 1,
-    "name": "فرنچ تست",
-    "slug": "french-toast",
-    "description": "نان تست آغشته به تخم‌مرغ، سرخ‌شده با دارچین، سرو با عسل و توت",
-    "categoryId": 5,
-    "image": "images/products/33.webp",
+    "name": "لیموناد",
+    "slug": "lemonade",
+    "description": "لیموناد تازه با نعناع",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 3301,
-        "name": "یک وعده",
-        "price": 195000
+        "id": 312,
+        "name": "تکی",
+        "price": 120
       }
     ],
     "isAvailable": true
@@ -643,33 +563,38 @@
   {
     "id": 34,
     "cafeId": 1,
-    "name": "صبحانه کامل",
-    "slug": "english-breakfast",
-    "description": "تخم‌مرغ، سوسیس، گوجه کبابی، لوبیا و نان تست؛ صبحانه کامل و مقوی",
-    "categoryId": 5,
-    "image": "images/products/34.webp",
+    "name": "سیکنیجر رندوم",
+    "slug": "sikenger-random",
+    "description": "سیکنیجر با قیمت متغیر",
+    "categoryId": 2,
+    "image": null,
     "variants": [
       {
-        "id": 3401,
-        "name": "یک وعده",
-        "price": 320000
+        "id": 313,
+        "name": "تکی",
+        "price": 0
       }
     ],
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "id": 35,
     "cafeId": 1,
-    "name": "ساندویچ مرغ گریل",
-    "slug": "grilled-chicken-sandwich",
-    "description": "سینه مرغ گریل‌شده با سبزیجات تازه و سس مخصوص در نان تست",
-    "categoryId": 6,
-    "image": "images/products/35.webp",
+    "name": "روبوستا ۱۰۰٪",
+    "slug": "robusta-100",
+    "description": "قهوه روبوستا ۱۰۰ درصد",
+    "categoryId": 8,
+    "image": null,
     "variants": [
       {
-        "id": 3501,
-        "name": "یک وعده",
-        "price": 245000
+        "id": 401,
+        "name": "تک",
+        "price": 60
+      },
+      {
+        "id": 402,
+        "name": "دوبل",
+        "price": 80
       }
     ],
     "isAvailable": true
@@ -677,16 +602,21 @@
   {
     "id": 36,
     "cafeId": 1,
-    "name": "برگر گوشت",
-    "slug": "beef-burger",
-    "description": "برگر گوشت تازه با پنیر چدار، کاهو، گوجه و سس مخصوص در نان برگر",
-    "categoryId": 6,
-    "image": "images/products/36.webp",
+    "name": "روبوستا ۷۰/۳۰",
+    "slug": "robusta-70-30",
+    "description": "ترکیب روبوستا ۷۰ درصد و عربیکا ۳۰ درصد",
+    "categoryId": 8,
+    "image": null,
     "variants": [
       {
-        "id": 3601,
-        "name": "یک وعده",
-        "price": 280000
+        "id": 403,
+        "name": "تک",
+        "price": 70
+      },
+      {
+        "id": 404,
+        "name": "دوبل",
+        "price": 90
       }
     ],
     "isAvailable": true
@@ -694,16 +624,21 @@
   {
     "id": 37,
     "cafeId": 1,
-    "name": "پاستا بولونیز",
-    "slug": "pasta-bolognese",
-    "description": "پاستا با سس گوشت چرخ‌کرده، گوجه و پنیر پارمزان",
-    "categoryId": 6,
-    "image": "images/products/37.webp",
+    "name": "۵۰/۵۰",
+    "slug": "blend-50-50",
+    "description": "ترکیب ۵۰ درصد روبوستا و ۵۰ درصد عربیکا",
+    "categoryId": 8,
+    "image": null,
     "variants": [
       {
-        "id": 3701,
-        "name": "یک وعده",
-        "price": 265000
+        "id": 405,
+        "name": "تک",
+        "price": 80
+      },
+      {
+        "id": 406,
+        "name": "دوبل",
+        "price": 100
       }
     ],
     "isAvailable": true
@@ -711,16 +646,21 @@
   {
     "id": 38,
     "cafeId": 1,
-    "name": "سالاد سزار مرغ",
-    "slug": "chicken-caesar-salad",
-    "description": "کاهو رومین، سینه مرغ گریل‌شده، کروتون و سس سزار کلاسیک",
-    "categoryId": 6,
-    "image": "images/products/38.webp",
+    "name": "عربیکا ۷۰/۳۰",
+    "slug": "arabica-70-30",
+    "description": "ترکیب عربیکا ۷۰ درصد و روبوستا ۳۰ درصد",
+    "categoryId": 8,
+    "image": null,
     "variants": [
       {
-        "id": 3801,
-        "name": "یک وعده",
-        "price": 235000
+        "id": 407,
+        "name": "تک",
+        "price": 90
+      },
+      {
+        "id": 408,
+        "name": "دوبل",
+        "price": 115
       }
     ],
     "isAvailable": true
@@ -728,253 +668,21 @@
   {
     "id": 39,
     "cafeId": 1,
-    "name": "پیتزا مارگاریتا",
-    "slug": "margherita-pizza",
-    "description": "پیتزا با سس گوجه، موزارلا تازه و برگ ریحان",
-    "categoryId": 6,
-    "image": "images/products/39.webp",
-    "variants": [
-      {
-        "id": 3901,
-        "name": "یک وعده",
-        "price": 310000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 40,
-    "cafeId": 1,
-    "name": "لازانیا",
-    "slug": "lasagna",
-    "description": "لایه‌های پاستا با سس گوشت، بشامل و پنیر گریتی",
-    "categoryId": 6,
-    "image": "images/products/40.webp",
-    "variants": [
-      {
-        "id": 4001,
-        "name": "یک وعده",
-        "price": 290000
-      }
-    ],
-    "isAvailable": false
-  },
-  {
-    "id": 41,
-    "cafeId": 1,
-    "name": "سالاد یونانی",
-    "slug": "greek-salad",
-    "description": "خیار، گوجه، زیتون، فلفل و پنیر فتا با روغن زیتون و اورگانو",
-    "categoryId": 6,
-    "image": "images/products/41.webp",
-    "variants": [
-      {
-        "id": 4101,
-        "name": "یک وعده",
-        "price": 185000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 42,
-    "cafeId": 1,
-    "name": "اسموتی توت‌فرنگی",
-    "slug": "strawberry-smoothie",
-    "description": "اسموتی غلیظ با توت‌فرنگی تازه، شیر و یخ",
-    "categoryId": 7,
-    "image": "images/products/42.webp",
-    "variants": [
-      {
-        "id": 4201,
-        "name": "250ml",
-        "price": 160000
-      },
-      {
-        "id": 4202,
-        "name": "350ml",
-        "price": 190000
-      },
-      {
-        "id": 4203,
-        "name": "500ml",
-        "price": 240000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 43,
-    "cafeId": 1,
-    "name": "اسموتی انبه",
-    "slug": "mango-smoothie",
-    "description": "اسموتی خامه‌ای با انبه تازه و عسل",
-    "categoryId": 7,
-    "image": "images/products/43.webp",
-    "variants": [
-      {
-        "id": 4301,
-        "name": "250ml",
-        "price": 160000
-      },
-      {
-        "id": 4302,
-        "name": "350ml",
-        "price": 190000
-      },
-      {
-        "id": 4303,
-        "name": "500ml",
-        "price": 240000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 44,
-    "cafeId": 1,
-    "name": "اسموتی موز",
-    "slug": "banana-smoothie",
-    "description": "اسموتی نرم با موز رسیده، شیر و خرما",
-    "categoryId": 7,
-    "image": "images/products/44.webp",
-    "variants": [
-      {
-        "id": 4401,
-        "name": "250ml",
-        "price": 150000
-      },
-      {
-        "id": 4402,
-        "name": "350ml",
-        "price": 180000
-      },
-      {
-        "id": 4403,
-        "name": "500ml",
-        "price": 230000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 45,
-    "cafeId": 1,
-    "name": "اسموتی سبز",
-    "slug": "green-smoothie",
-    "description": "اسموتی سالم با اسفناج، سیب، کیوی و زنجبیل",
-    "categoryId": 7,
-    "image": "images/products/45.webp",
-    "variants": [
-      {
-        "id": 4501,
-        "name": "250ml",
-        "price": 165000
-      },
-      {
-        "id": 4502,
-        "name": "350ml",
-        "price": 195000
-      },
-      {
-        "id": 4503,
-        "name": "500ml",
-        "price": 245000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 46,
-    "cafeId": 1,
-    "name": "اسموتی آناناس",
-    "slug": "pineapple-smoothie",
-    "description": "اسموتی استوایی با آناناس تازه، نارگیل و شیر",
-    "categoryId": 7,
-    "image": "images/products/46.webp",
-    "variants": [
-      {
-        "id": 4601,
-        "name": "250ml",
-        "price": 155000
-      },
-      {
-        "id": 4602,
-        "name": "350ml",
-        "price": 185000
-      },
-      {
-        "id": 4603,
-        "name": "500ml",
-        "price": 235000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 47,
-    "cafeId": 1,
-    "name": "چای سیاه",
-    "slug": "black-tea",
-    "description": "چای سیاه ایرانی خوش‌عطر، سرو شده با قند و شیرینی",
+    "name": "عربیکا ۱۰۰٪",
+    "slug": "arabica-100",
+    "description": "قهوه عربیکا ۱۰۰ درصد",
     "categoryId": 8,
-    "image": "images/products/47.webp",
+    "image": null,
     "variants": [
       {
-        "id": 4701,
-        "name": "تکی",
-        "price": 60000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 48,
-    "cafeId": 1,
-    "name": "چای سبز",
-    "slug": "green-tea",
-    "description": "چای سبز لطیف با عطر گل‌گلاب؛ سرشار از آنتی‌اکسیدان",
-    "categoryId": 8,
-    "image": "images/products/48.webp",
-    "variants": [
+        "id": 409,
+        "name": "تک",
+        "price": 110
+      },
       {
-        "id": 4801,
-        "name": "تکی",
-        "price": 75000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 49,
-    "cafeId": 1,
-    "name": "چای نعنا",
-    "slug": "mint-tea",
-    "description": "چای سبز با برگ نعنا تازه؛ نوشیدنی معطر و آرامش‌بخش",
-    "categoryId": 8,
-    "image": "images/products/49.webp",
-    "variants": [
-      {
-        "id": 4901,
-        "name": "تکی",
-        "price": 70000
-      }
-    ],
-    "isAvailable": true
-  },
-  {
-    "id": 50,
-    "cafeId": 1,
-    "name": "دمنوش بابونه",
-    "slug": "chamomile-tea",
-    "description": "دمنوش بابونه طبیعی با عسل؛ مناسب آرامش و پایان روز",
-    "categoryId": 8,
-    "image": "images/products/50.webp",
-    "variants": [
-      {
-        "id": 5001,
-        "name": "تکی",
-        "price": 80000
+        "id": 410,
+        "name": "دوبل",
+        "price": 125
       }
     ],
     "isAvailable": true
