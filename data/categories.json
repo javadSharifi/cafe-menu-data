@@ -30,13 +30,13 @@
     "slug": "food"
   },
   {
-    "id": 6,
-    "name": "دسر",
-    "slug": "dessert"
-  },
-  {
     "id": 7,
     "name": "بستنی",
     "slug": "ice-cream"
+  },
+  {
+    "id": 6,
+    "name": "دسر",
+    "slug": "dessert"
   }
 ]
